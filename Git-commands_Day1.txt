@@ -1,0 +1,24 @@
+--------
+
+
+Story
+-------
+
+tracking, snapshots, local-histories, advantages of git over other vcs, pull vs push, master -> new branch.
+
+
+commands: 
+
+1. git clone -> downloads only master branch or defaults.
+2. git init -> (not a git repository)
+3. git remote add origin <link> -> linking local -> remote
+4. git add .  -> (start tracking)
+5. git commit -m -> save changes to local
+6. git status -> to known where/what we are
+7. git branch  -> lists out the total no.of branches in a remote
+8. git branch <branchName> -> create a new branch, stays in default default branch
+9. git checkout -b <branchname> -> create a new branch & jumps new branch
+10. git push -u origin --------------------
+
+
+

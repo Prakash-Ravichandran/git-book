@@ -1,0 +1,35 @@
+
+
+1.apple          1.                        1.
+2.banana         2.                        2.
+3. cat           3.                        3.
+4.Dog            4.                        4.
+5.Elephant       5.                        5.
+                 6,7                       7.
+
+
+commit: Apple      , Commit Banana     commit cat 
+
+
+1.apple
+2.banana
+3. cat
+4.Dog
+5.Elephant
+6
+7.
+
+1.apple
+2.banana
+3. cat
+4.Dog
+5.Elephant
+7.Girafee
+
+
+
+
+7-5 = 2 -> other vcs 
+
+git takes screenshot
+
